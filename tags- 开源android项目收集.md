@@ -24,3 +24,9 @@ androidUI项目收集
   项目地址
   http://www.open-open.com/lib/view/open1470812041396.html
   https://github.com/yadav-rahul/TastyToast#readme
+  
+  ![音频软件][2]
+  [2]: https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/demo.gif
+  
+  项目地址
+  https://github.com/adrielcafe/AndroidAudioRecorder#readme
